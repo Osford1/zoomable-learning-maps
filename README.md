@@ -22,7 +22,23 @@ a product.
 Every generated page opens straight from `file://` in a browser. There is no build step, no bundler and
 no server.
 
-<!-- TODO(owner): add the two README screenshots once they exist. docs/screenshots/README.md lists the shots needed. Do not add image links before the files are there. -->
+## What the demo actually looks like
+
+All three shots are of the demo pages this repo generates, captured from `./out/demo` after the two
+commands above, at 880 px viewport width and 2× scale.
+
+![the demo master chart, whole page](docs/screenshots/demo-master.png)
+
+The master: three blocks, two chips, and the legend the pages inherit.
+
+![a generated zoom page, whole page](docs/screenshots/demo-zoom-chart.png)
+
+Zoom 1 — a real page, with its back-out header, its chain spine and its hand-off band.
+
+![the placeholder zoom page, whole page](docs/screenshots/demo-zoom-placeholder.png)
+
+Zoom 2 — the placeholder variant, so the honest half of the method is visible next to the built half.
+
 
 ## What is in here
 

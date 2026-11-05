@@ -2,6 +2,9 @@
 
 Bullets are for Chen Bin; each one says what is needed, why it blocks, and where.
 
+**Open items in this file: 5 — nothing about the demo screenshots is outstanding: the three shots in
+`docs/screenshots/` are real captures of the demo pages and are wired into the README.**
+
 - **Rebuild the worked example against a public paper.** The map that exists was charted from a paper I
   do not have the authors' permission to republish, so the whole example directory was excluded from this
   repo and the paper is not named anywhere in it. Once a paper under CC-BY or CC0 is picked, rebuild the
